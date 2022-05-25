@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
     database nasabah1 = new database("Muhammad Haris", 750000, 1171, 1414);
-    database nasabah2 = new database("Putri Salsabila", 350000, 1172, 2020);
+    database nasabah2 = new database("k Petim", 350000, 1172, 2020);
     database nasabah3 = new database("Azra Ulayya", 345000, 1173, 1212);
     database nasabah4 = new database("", 0, 0, 0);
     database nasabah5 = new database("", 0, 0, 0);
